@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw1mfiTAEFIWoS7cRrvAbohQ&ust=1679151563401000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJiq4qyd4_0CFQAAAAAdAAAAABAD">
 Hi there ! I am a passionate developer with a keen interest in both web development and machine learning. I enjoy making robust and user-friendly web applications using front end technologies like React and back end frameworks like Node.js. <br>I also have been working on a couple of machine learning projects, which I plan to upload here soon. Looking forward to contribute here and any contribution to my projects from your side is always welcome !!
 
 
