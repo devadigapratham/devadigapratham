@@ -42,7 +42,6 @@ Hi there ! I am a passionate developer with a keen interest in both web developm
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>
 </div>  
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devadigapratham&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devadigapratham&theme=dark&hide_border=false)<br/>
