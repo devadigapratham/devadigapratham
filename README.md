@@ -43,7 +43,6 @@ Hi there ! I am a passionate developer with a keen interest in both web developm
 </div>  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devadigapratham&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devadigapratham&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devadigapratham&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
