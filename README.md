@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="300" src     ="https://gist.github.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif">
-Hi there ! I am a passionate developer with a keen interest in both web development and machine learning. I enjoy making robust and user-friendly web applications using front end technologies like React and back end frameworks like Node.js. <br>I also have been working on a couple of machine learning projects, which I plan to upload here soon. Looking forward to contribute here and any contribution to my projects from your side is always welcome !!
+Hi there! I am a passionate developer with a keen interest in both web development and machine learning. I enjoy making robust and user-friendly web applications using front-end technologies like React and back-end frameworks like Node.js. <br>I also have been working on a couple of machine learning projects, which I plan to upload here soon. I look forward to contributing here & any contribution to my projects from your side is always welcome !!
 
 
 ## 🌐 Socials:
