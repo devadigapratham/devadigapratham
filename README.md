@@ -1,10 +1,6 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="300" src     ="https://gist.github.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif">
-Hi there! I am a passionate developer with a keen interest in both web development and machine learning. I enjoy making robust and user-friendly web applications using front-end technologies like React and back-end frameworks like Node.js. <br>I also have been working on a couple of machine learning projects, which I plan to upload here soon. I look forward to contributing here & any contribution to my projects from your side is always welcome !!
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/prathamesh-devadiga-77391421b) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Prathamesh-Devadiga-3) 
+I'm Prathamesh Devadiga, a student from Udupi, India, currently studying at PES University, Bangalore. My passions revolve around Machine Learning, Data Science, Web Development (Frontend), and Finance. I specialize in utilizing data-driven insights for financial decisions and thrive on simplifying complex challenges.<br>Eager to learn and share knowledge, I'm here to engage in discussions about technology, finance, or any intriguing topic. Let's explore and innovate together!
 
 ## 👨‍💻 Languages and Tools:  
 <div align="center">  
