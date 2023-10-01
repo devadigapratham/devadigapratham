@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="300" src     ="https://gist.github.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif">
-I'm Prathamesh Devadiga, a student from Udupi, India, currently studying at PES University, Bangalore. My passions revolve around Machine Learning, Data Science, Web Development (Frontend), and Finance. I specialize in utilizing data-driven insights for financial decisions and thrive on simplifying complex challenges.<br>Eager to learn and share knowledge, I'm here to engage in discussions about technology, finance, or any intriguing topic. Let's explore and innovate together!
+Hello Guys, I am Prathamesh. My passions revolve around Machine Learning, Data Science, Web Development (Frontend), and Finance. I specialize in utilizing data-driven insights for financial decisions and thrive on simplifying complex challenges.<br>Eager to learn and share knowledge, I'm here to engage in discussions about technology, finance, or any intriguing topic. Let's explore and innovate together!
 
 ## 👨‍💻 Languages and Tools:  
 <div align="center">  
