@@ -37,6 +37,5 @@ Hello Guys, I am Prathamesh. My passions revolve around Machine Learning, Data S
 ![](https://github-profile-trophy.vercel.app/?username=devadigapratham&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=devadigapratham&icon=0&color=0)](https://visitcount.itsvg.in)
-[![An image of @devadigapratham's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devadigapratham)](https://holopin.io/@devadigapratham)
 
 
