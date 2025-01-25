@@ -10,7 +10,7 @@
 
 - 💻 My interests include in the domains of : Machine Learning, Deep Learning, Cybersecurity, Generative AI and LLMs.
 - 🔍 Currently exploring Distributed Systems and Databases. 
-- 🤔 I’m currently reading [Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/). Check it out if interested.
+- 🤔 I’m currently reading [Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/) and [Hands-On Large Language Models: Language Understanding and Generation by Jay Alammar and Maarten Grootendorst](https://www.amazon.in/Hands-Large-Language-Models-Understanding/dp/1098150961). Check it out if interested.
 - 📫 How to reach me: devadigapratham8@gmail.com
 
 
