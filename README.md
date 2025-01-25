@@ -1,33 +1,92 @@
-# Prathamesh Devadiga
+# Prathamesh Devadiga 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevadigapratham%2Fdevadigapratham&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/https://x.com/PrathameshD_8)](https://twitter.com/https://x.com/PrathameshD_8)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/prathamesh-devadiga//)
+[![Portfolio](https://img.shields.io/badge/ML_Portfolio-FF7130?style=for-the-badge&logo=vercel&logoColor=white)](https://prathameshdevadiga.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-devadiga/)
+[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devadigapratham8@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=devadigapratham&color=blueviolet&style=for-the-badge)
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:devadigapratham8@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://prathameshdevadiga.vercel.app/)](https://prathameshdevadiga.vercel.app/)
-[![Github](https://img.shields.io/github/followers/devadigapratham?label=Follow&style=social)](https://github.com/devadigapratham)
+**Machine Learning Engineer | AI Systems Enthusiast**
 
-- 💻 My interests include in the domains of : Machine Learning, Deep Learning, Cybersecurity, Generative AI and LLMs.
-- 🔍 Currently exploring Distributed Systems and Databases. 
-- 🤔 I’m currently reading [Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/) and [Hands-On Large Language Models: Language Understanding and Generation by Jay Alammar and Maarten Grootendorst](https://www.amazon.in/Hands-Large-Language-Models-Understanding/dp/1098150961). Check it out if interested.
-- 📫 How to reach me: devadigapratham8@gmail.com
+---
+
+## 🚀 Technical Profile
+
+Building robust ML systems at scale with expertise in:
+
+- **ML Productionization**: Model serving, MLOps, distributed training
+- **Generative AI**: LLM fine-tuning, RAG systems, transformer architectures
+- **ML Infrastructure**: Kubernetes orchestration, model optimization, monitoring
+
+---
+
+## 🛠️ Technical Stack
+
+### **Core ML**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
 
 
-### 🖥 Skills
+### **MLOps & Deployment**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?logo=kubernetes&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?logo=dataversioncontrol&logoColor=white)
 
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Data Science
-- CyberSecurity
-- Generative AI 
-### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Go-05122A?style=flat-square&logo=Go&color=353535) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Julia-05122A?style=flat-square&logo=Julia&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Neovim%20-05122A?style=flat-square&logo=Neovim&color=353535)
+### **Data Ecosystem**
+![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 
-<div>
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devadigapratham&show_icons=true&locale=en&layout=compact&theme=dark" alt="devadigapratham" />
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=devadigapratham&theme=dark" alt="devadigapratham" />
+
+---
+
+## 🔭 Current Focus Areas
+
+- **LLM Optimization**: Quantization techniques, efficient attention mechanisms
+- **Distributed Training**: Building arcane - a distributed ml framework :D
+- **ML Security**: Adversarial robustness in production models
+- **Recent Papers**: [LoRA: Low-Rank Adaptation](https://arxiv.org/abs/2106.09685), [FlashAttention](https://arxiv.org/abs/2205.14135)
+- **Books I'm Reading**:
+  - "Deep Learning" by Ian Goodfellow [[Link]](https://www.deeplearningbook.org/)
+  - "Hands-On Large Language Models" by Jay Alammar [[Link]](https://www.amazon.in/Hands-Large-Language-Models-Understanding/dp/1098150961)
+  - "Designing Machine Learning Systems" by Chip Huyen [[Link]](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
+  - "Building Machine Learning Powered Applications" by Emmanuel Ameisen [[Link]](https://www.amazon.com/Building-Machine-Learning-Powered-Applications/dp/149204511X)
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devadigapratham&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/devadigapratham)
+  
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devadigapratham&theme=react-dark&hide_border=true&area=true)](https://github.com/devadigapratham)
+
 </div>
+
+---
+
+## 📫 Let's Collaborate
+
+<p align="center">
+  <a href="https://prathameshdevadiga.vercel.app/">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="40" title="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/prathamesh-devadiga/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" title="LinkedIn">
+  </a>
+  <a href="https://x.com/PrathameshD_8">
+    <img src="https://img.icons8.com/color/48/twitterx.png" width="40" title="Twitter">
+  </a>
+  <a href="mailto:devadigapratham8@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail.png" width="40" title="Email">
+  </a>
+</p>
