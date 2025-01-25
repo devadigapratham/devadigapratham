@@ -11,7 +11,7 @@
 
 ## 🚀 Technical Profile
 
-Building robust ML systems at scale with expertise in:
+Building robust ML systems at scale with interest in:
 
 - **ML Productionization**: Model serving, MLOps, distributed training
 - **Generative AI**: LLM fine-tuning, RAG systems, transformer architectures
