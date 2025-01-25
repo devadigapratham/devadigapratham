@@ -1,6 +1,6 @@
 # Prathamesh Devadiga 
 
-[![Portfolio](https://img.shields.io/badge/ML_Portfolio-FF7130?style=for-the-badge&logo=vercel&logoColor=white)](https://prathameshdevadiga.vercel.app/)
+[[Portfolio](https://img.shields.io/badge/ML_Portfolio-FF7130?style=for-the-badge&logo=vercel&logoColor=white)](https://prathameshdevadiga.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-devadiga/)
 [![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devadigapratham8@gmail.com)
 ![Visitors](https://komarev.com/ghpvc/?username=devadigapratham&color=blueviolet&style=for-the-badge)
