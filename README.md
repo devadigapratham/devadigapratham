@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devadigapratham8@gmail.com)
 ![Visitors](https://komarev.com/ghpvc/?username=devadigapratham&color=blueviolet&style=for-the-badge)
 
-**Machine Learning Engineer | AI Systems Enthusiast**
+**AI Engineer | AI Systems Enthusiast**
 
 ---
 
