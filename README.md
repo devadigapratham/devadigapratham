@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devadigapratham8@gmail.com)
 ![Visitors](https://komarev.com/ghpvc/?username=devadigapratham&color=blueviolet&style=for-the-badge)
 
-**AI Engineer | AI Systems Enthusiast**
+**AI Engineer | MLSys | Trustworthy and Safe AI | AI Security**
 
 ---
 
